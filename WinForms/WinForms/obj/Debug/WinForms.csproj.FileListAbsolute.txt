@@ -1,0 +1,18 @@
+c:\users\wexller\documents\visual studio 2015\Projects\WinForms\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\WinForms\WinForms\bin\Debug\WinForms.exe
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\WinForms\WinForms\bin\Debug\WinForms.pdb
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\WinForms\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\WinForms\WinForms\obj\Debug\WinForms.Form1.resources
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\WinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\WinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\WinForms\WinForms\obj\Debug\WinForms.exe
+C:\Users\Wexller\Documents\Visual Studio 2015\Projects\WinForms\WinForms\obj\Debug\WinForms.pdb
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\bin\Debug\WinForms.exe.config
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.exe
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.pdb
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\bin\Debug\WinForms.exe
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\bin\Debug\WinForms.pdb
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.Form1.resources
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache

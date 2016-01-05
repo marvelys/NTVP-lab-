@@ -14,9 +14,9 @@ namespace WinForms
         public CertificateDiscounts(double _costOfGoods, double _chosenDiscount)
         {
             if (_costOfGoods < 0)
-                throw new ArgumentException("Должно быть больше нуля", "_costOfGoods");
+                throw new ArgumentException("Стоимость товара должна быть больше нуля", "_costOfGoods");
             if (_chosenDiscount < 0)
-                throw new ArgumentException("Должно быть больше нуля", "_chosenDiscount");
+                throw new ArgumentException("Стоимость товара должна быть больше нуля", "_chosenDiscount");
 
             this._chosenDiscount = _chosenDiscount;
             this._costOfGoods = _costOfGoods;

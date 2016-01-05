@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WinForms
 {
-    class PercentDiscounts : IDiscounts
+    class PercentDiscounts : IDiscounts// класс процентной скидки
     {
         public double _costOfGoods;
         public double _chosenDiscount;

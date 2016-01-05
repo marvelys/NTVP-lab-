@@ -16,3 +16,12 @@ E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForm
 E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.Form1.resources
 E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
 E:\учеба\7 семак\НТВП\WinForms\WinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\bin\Debug\WinForms.exe.config
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\obj\Debug\WinForms.exe
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\obj\Debug\WinForms.pdb
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\bin\Debug\WinForms.exe
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\bin\Debug\WinForms.pdb
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\obj\Debug\WinForms.Form1.resources
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+E:\учеба\7 семак\НТВП\repository\WinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WinForms
 {
-    class CertificateDiscounts : IDiscounts
+    class CertificateDiscounts : IDiscounts //  скидочного сертификата
     {
         public double _costOfGoods;
         public double _chosenDiscount;

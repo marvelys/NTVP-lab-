@@ -22,7 +22,7 @@ namespace WinForms
             this._costOfGoods = _costOfGoods;
         }
 
-        double IDiscounts.Discount()
+        double IDiscounts.Discount()//конструктор 
         {
             return _costOfGoods - _costOfGoods * _chosenDiscount;
         }
